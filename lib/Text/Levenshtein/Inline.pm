@@ -10,5 +10,5 @@ __DATA__
 __C__
 
 int distance(char* s, char* t) {
-
+    return 1;
 }
