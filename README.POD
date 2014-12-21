@@ -1,5 +1,7 @@
 =pod
 
+Early Release
+
 Write this modulde for 2 purpose
 
 =over 4
@@ -8,5 +10,6 @@ Write this modulde for 2 purpose
 
 =item learn how to use Inline::Module to release a Inline based module
 
-
 =cut
+
+
