@@ -5,6 +5,7 @@ use base 'Exporter';
 
 our @EXPORT_OK = qw( distance );
 
+1;
 __DATA__
 __C__
 
