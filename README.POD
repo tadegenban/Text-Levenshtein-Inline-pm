@@ -1,0 +1,12 @@
+=pod
+
+Write this modulde for 2 purpose
+
+=over 4
+
+=item learn how to use C language to write a perl Module
+
+=item learn how to use Inline::Module to release a Inline based module
+
+
+=cut
