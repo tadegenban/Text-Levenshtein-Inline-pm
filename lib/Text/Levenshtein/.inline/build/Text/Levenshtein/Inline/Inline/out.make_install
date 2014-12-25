@@ -1,0 +1,4 @@
+Running Mkbootstrap for Text::Levenshtein::Inline::Inline ()
+chmod 644 "Inline.bs"
+Files found in blib/arch: installing files in blib/lib into architecture dependent library tree
+Installing /home/tadegenban/Perl/Project/Text-Levenshtein-Inline-pm/lib/Text/Levenshtein/.inline/lib/auto/Text/Levenshtein/Inline/Inline/Inline.so
