@@ -1,9 +1,11 @@
-Early Release
+Levenshtein edit distance
 
-Write this modulde for 2 purpose
+There are Text::Levenshtein and Text::LevenshteinXS on CPAN
 
-learn how to use C language to write a perl Module
+I write this modulde for 2 purpose:
 
-learn how to use Inline::Module to release a Inline based module
+    1. learn how to use C language to write a perl Module
+
+    2. learn how to use Inline::Module to release a Inline based module
 
 
