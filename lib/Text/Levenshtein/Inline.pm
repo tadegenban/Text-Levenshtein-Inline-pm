@@ -1,8 +1,13 @@
 package Text::Levenshtein::Inline;
 
-use Text::Levenshtein::Inline::Inline C => 'Inline/Levenshtein.c';
-use base 'Exporter';
+our $VERSION = 0.01;
 
-our @EXPORT_OK = qw( distance );
+
+use Text::Levenshtein::Inline::Inline C => Config => ccflagsex => '-std=c99';
+use Text::Levenshtein::Inline::Inline C => 'lib/Text/Levenshtein/Inline/Levenshtein.c';
+
+use Exporter 'import';
+our @EXPORT = qw( distance dis );
+
 
 1;
