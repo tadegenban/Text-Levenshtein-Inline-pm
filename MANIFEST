@@ -1,0 +1,13 @@
+lib/Text/Levenshtein/Inline.pm
+lib/Text/Levenshtein/Inline/Inline.pm
+lib/Text/Levenshtein/Inline/Levenshtein.c
+Makefile
+Makefile.old
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.bak
+MANIFEST.SKIP
+MYMETA.json
+MYMETA.yml
+README
+t/01-basic.t
