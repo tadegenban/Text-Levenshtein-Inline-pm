@@ -2,3 +2,11 @@
 */.inline/*
 .inline/*
 *.tar.gz
+MANIFEST
+MANIFEST.SKIP
+MANIFEST.bak
+pm_to_blib
+Makefile.old
+MYMETA.json
+MYMETA.yml
+.gitignore~
